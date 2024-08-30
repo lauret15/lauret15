@@ -15,3 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - I love my mom ...
+- ### Boas vindas ao meu perfil :blue_heart
+
+Meu nome é lauret
+
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvido
+
+![descrição do GIF](https://tenor.com/pt-BR/view/dih-dissy-a-dih-gif-4026294016621652023)
