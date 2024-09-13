@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - I love my mom ...
-- ### Boas vindas ao meu perfil :blue_heart
+- ### Boas vindas ao meu perfil :blue_hear
 
 Meu nome é lauret
 
@@ -23,4 +23,4 @@ Meu nome é lauret
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvido
 
-![descrição do GIF](https://tenor.com/pt-BR/view/dih-dissy-a-dih-gif-4026294016621652023)
+![descrição do GIF]https://tenor.com/pt-BR/view/hello-there-private-from-penguins-of-madagascar-hi-wave-hey-there-gif-16043627
